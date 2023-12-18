@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+openpyxl
+gspread
+requests
+oauth2client
+dash-table
+gunicorn
